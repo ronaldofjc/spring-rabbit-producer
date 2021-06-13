@@ -3,6 +3,9 @@ This project presents a way to use RabbitMq as a message producer with Spring Bo
 
 Technologies used: Java, Spring Boot, Maven, Swagger, Lombok, RabbitMq
 
+Consumer project: ([Link](https://github.com/ronaldofjc/spring-rabbit-consumer))
+
+
 ## Pre-Requires
 
 - JDK 11
